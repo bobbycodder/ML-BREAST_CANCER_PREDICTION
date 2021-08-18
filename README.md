@@ -49,7 +49,7 @@ We will use the outcome Bening/Malignant to predict if a new patient has a proba
 
 * **While Machine Learning, equipped with Python and all its accessories, can represent the path toward the future of preventive and diagnostic Medicine, limitations in comprehending biological variables could make this path an awkward road.**
 
-* **The Wisconsin Breast Cancer (Diagnostic) Data Set, with its 569 patients and 30 features, offers an exhaustive assortment of parameters for classification and for this reason represents a perfect example for Machine Learning applications. Anyway, many of these features seem to be redundant, and a definite impact on classification and prediction by some of them remains still unknown..**
+* **The Wisconsin Breast Cancer (Diagnostic) Data Set, with its 569 patients and 30 features, offers an exhaustive assortment of parameters for classification and for this reason represents a perfect example for Machine Learning applications. Anyway, many of these features seem to be redundant, and a definite impact on classification and prediction by some of them remains still unknown.**
 
 ***I have introduced a Bivariate Analysis, to reduce the number of redundant features. An in-depth discussion on the role of these features in the prediction should deserve a dedicated article.***
 
