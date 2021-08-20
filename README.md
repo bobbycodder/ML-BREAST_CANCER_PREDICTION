@@ -53,7 +53,7 @@ We will use the outcome Bening/Malignant to predict if a new patient has a proba
 
 ***I have introduced a Bivariate Analysis, to reduce the number of redundant features. An in-depth discussion on the role of these features in the prediction should deserve a dedicated article.***
 
-**I hope you find this project useful! Follow along [notebook](https://github.com/bobbycodder/ML-BREAST_CANCER_PREDICTION) for more!!..**
+**I hope you find this project useful! Follow along [notebook](https://github.com/bobbycodder/ML-BREAST_CANCER_PREDICTION) for more!!**
 
  <img src="https://miro.medium.com/max/694/1*ieIAhbb-osfu_aH4GSvWeg.png" width="400" height="200">
  
